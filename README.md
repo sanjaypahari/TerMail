@@ -1,6 +1,10 @@
 # TerMail - Terminal Email Sender
 
-TerMail is a Python program that allows you to send emails directly from the terminal. It utilizes the `smtplib` library to establish a secure connection with Gmail's SMTP server and send emails. With TerMail, you can quickly send emails without needing a graphical email client.
+TerMail is a Python program that allows you to send emails directly from the terminal. It utilizes the `smtplib` library to establish a secure connection with Gmail's SMTP server and send emails. With TerMail, you can quickly send emails without needing a graphical email client. [Open-source]
+
+<p align="center">
+  <img src="https://pbs.twimg.com/media/F2BXF-mWAAYPNuS?format=jpg&name=4096x4096" alt="KUOSC Image" alt="TerMail" width="700">
+</p>
 
 ## Features
 
